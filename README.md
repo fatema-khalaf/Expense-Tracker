@@ -7,4 +7,4 @@ Add new Expense.
 Filter expenses results by year.
 Review max expenses using expenses chart.
 
-### `npm run build`
+## Deployed on [Expenses-by-fatema](https://loving-franklin-551753.netlify.app/)
